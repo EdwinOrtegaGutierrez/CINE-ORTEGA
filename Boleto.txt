@@ -1,0 +1,10 @@
+Filme: 
+
+Clasificacion del filme: 
+
+Horario del filme: 
+
+Asiento asignado: 
+
+Precio del Boleto: $
+ 

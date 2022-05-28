@@ -1,0 +1,11 @@
+ID: tt89345_dd
+
+Nombre: Hulk
+
+Genero: Accion, ciencia y ficcion, super heroes
+
+Duracion: 2 horas, 10 minutos 
+
+Clasificacion: B
+
+Horario: 02:00 pm, 05:00 pm, 08:00 pm
